@@ -1,0 +1,1 @@
+# Activity-Recognition-using-Smartphone-Accelerometers---PYTHON
