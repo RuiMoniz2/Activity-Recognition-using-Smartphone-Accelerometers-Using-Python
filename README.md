@@ -1,4 +1,4 @@
-# Activity-Recognition-using-Smartphone-Accelerometers---PYTHON
+# Activity-Recognition-using-Smartphone-Accelerometers-Using-Python
 ## Project Overview
 Monitoring human movements can be useful for various purposes, including sports and healthcare applications. This project focuses on developing a solution for Active Assisted Living (AAL) in the healthcare sector, specifically targeting senior care. The main objective is to achieve permanent and accurate monitoring of individuals' activities to respond promptly to critical events such as falls. The monitoring can be accomplished using accelerometers and other sensors commonly found in smartphones.
 
